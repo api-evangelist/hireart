@@ -1,0 +1,17 @@
+# HireArt
+
+> HireArt is a workforce management platform that helps enterprises source, employ, and manage their contingent workforce - contract workers, freelancers, and staffing vendors - through a single self-serve system. Products include Employer of Record (EOR), on-demand sourcing and recruitment, a Vendor Management System (VMS), worker classification and compliance, program management, and freelancer management. HireArt does not currently publish a public developer API or API documentation.
+
+## Company
+- [HireArt homepage](https://www.hireart.com/): Hire, employ, and manage contractors with a single platform.
+- [About HireArt](https://www.hireart.com/about): Company background and mission.
+
+## Docs
+- [Help Center](https://www.hireart.com/help): Product support and how-to guidance.
+- [Product Updates](https://www.hireart.com/product-updates): Dated changelog of platform updates.
+- [Blog](https://www.hireart.com/blog): Workforce, compliance, and staffing articles.
+
+## Compliance
+- [Compliance](https://www.hireart.com/compliance): SOC 2 and ISO 27001 posture (trust center).
+- [Terms and Conditions](https://www.hireart.com/terms)
+- [Privacy Policy](https://www.hireart.com/privacy-policy)

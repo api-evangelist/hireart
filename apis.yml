@@ -1,7 +1,28 @@
 aid: hireart
 name: HireArt
-description: HireArt is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  HireArt is a workforce management platform that helps enterprises source,
+  employ, and manage their contingent workforce - contract workers, freelancers,
+  and staffing vendors - through a single self-serve system. Its products span
+  Employer of Record (EOR), on-demand sourcing and recruitment, a Vendor
+  Management System (VMS), worker classification and compliance (1099 vs. W-2
+  with indemnification), program management, and freelancer management. Customers
+  include Toyota Research Institute, Zoox, Via, Scale AI, Dropbox, Meta Quest,
+  Carta, and Rover. HireArt was surfaced as a portfolio company of a16z and added
+  to the API Evangelist network; it does not publish a public developer API,
+  developer portal, or API documentation at this time.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/63f29b56cdf34e4836b59fda/6421b5e61f5e5584926c98a5_HireArt.com%20Image.png
 url: https://raw.githubusercontent.com/api-evangelist/hireart/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,45 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Workforce Management
+- Staffing
+- Employer of Record
+- Vendor Management System
+- Contingent Workforce
+- Recruiting
+- Compliance
 apis: []
+common:
+- type: TrustCenter
+  url: security/hireart-trust-center.yml
+- type: Compliance
+  url: https://www.hireart.com/compliance
+- type: Website
+  url: https://www.hireart.com/
+- type: Blog
+  url: https://www.hireart.com/blog
+- type: ChangeLog
+  url: https://www.hireart.com/product-updates
+- type: Support
+  url: https://www.hireart.com/help
+- type: TermsOfService
+  url: https://www.hireart.com/terms
+- type: PrivacyPolicy
+  url: https://www.hireart.com/privacy-policy
+- type: DomainSecurity
+  url: security/hireart-domain-security.yml
+- type: LLMsTxt
+  url: llms/hireart-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
